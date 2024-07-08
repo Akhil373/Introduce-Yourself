@@ -1,6 +1,6 @@
 ---
-name: Aditya Jyoti
-interests: robotics, programming, public speaking
-description: A curious mind who is passionate about software engineering, robotics and language design with a dream to change and ease the lives of people around me with the help of his creations.
-github: https://github.com/aditya-jyoti
+name: Akhilesh Manchi
+interests: FOSS applications, open-source projects, web dev
+description: First year CS student '27.
+github: https://github.com/Akhil373
 ---
